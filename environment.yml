@@ -1,0 +1,11 @@
+name: main
+dependencies:
+  - numpy
+  - pandas
+  - xarray=0.21.0
+  - iris
+  - ipykernel
+  - matplotlib
+  - cartopy
+  - pandas
+  - cftime
